@@ -9,7 +9,7 @@ function Student_card() {
       name: "abc",
       time1: "10 AM",
       time2: "6 PM",
-      photo1: "./public/images.jpeg",
+      photo1: "./images.jpeg",
       photo2: "https://firebasestorage.googleapis.com/v0...",
     },
     {
@@ -101,6 +101,8 @@ function Student_card() {
       "photo2": "https://randomuser.me/api/portraits/men/12.jpg"
     }
   ];
+
+  
 
   return (
     <div className="bg-gray-100 min-h-screen px-6 py-4">

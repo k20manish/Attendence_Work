@@ -71,7 +71,7 @@ const StudentPDF = ({ students }) => {
                 </View>
 
               </View>
-            ))}
+            ))} 
           </View>
         </Page>
       ))}
